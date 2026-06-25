@@ -48,11 +48,11 @@ def parse_args() -> argparse.Namespace:
   python main.py --stats                      # 仅显示统计信息
         """,
     )
-    parser.add_argument("--province", default="山西", help="省份（默认：山西）")
-    parser.add_argument("--category", default="物理类", help="科类（默认：物理类）")
-    parser.add_argument("--year", type=int, default=2025, help="年份（默认：2025）")
-    parser.add_argument("--rank-min", type=int, default=4000, help="最低位次（默认：4000）")
-    parser.add_argument("--rank-max", type=int, default=6000, help="最高位次（默认：6000）")
+    parser.add_argument("--province", required=True, help="省份，如：山西")
+    parser.add_argument("--category", required=True, help="科类，如：物理类、历史类")
+    parser.add_argument("--year", type=int, required=True, help="年份，如：2025")
+    parser.add_argument("--rank-min", type=int, required=True, help="最低位次，如：4000")
+    parser.add_argument("--rank-max", type=int, required=True, help="最高位次，如：6000")
     parser.add_argument("--school", help="按学校名筛选（模糊匹配）")
     parser.add_argument("--major", help="按专业关键词筛选（模糊匹配）")
     parser.add_argument("--detail", action="store_true", help="显示学校和专业详细信息")

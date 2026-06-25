@@ -13,31 +13,31 @@
 ## 快速开始
 
 ```bash
-# 默认参数（山西 物理类 2025 年 4000-6000 名，重点 4600-5300）
-./run.sh
-
-# 自定义参数
+# 示例：山西 物理类 2025 年 4000-6000 名，重点 4600-5300
 ./run.sh \
   --province 山西 --category 物理类 --year 2025 \
-  --rank-min 3000 --rank-max 6000 \
-  --highlight-min 3500 --highlight-max 4500
+  --rank-min 4000 --rank-max 6000 \
+  --highlight-min 4600 --highlight-max 5300
 
-# 指定输出文件
-./run.sh --output 我的报告.pdf
+# 示例：广东 历史类 2000-5000 名，重点 3000-4000
+./run.sh \
+  --province 广东 --category 历史类 --year 2025 \
+  --rank-min 2000 --rank-max 5000 \
+  --highlight-min 3000 --highlight-max 4000
 ```
 
 ## 参数说明
 
-| 参数 | 默认值 | 说明 |
-|------|--------|------|
-| `--province` | 山西 | 省份名称 |
-| `--category` | 物理类 | 科类（物理类/历史类） |
-| `--year` | 2025 | 高考年份 |
-| `--rank-min` | 4000 | 位次区间下限 |
-| `--rank-max` | 6000 | 位次区间上限 |
-| `--highlight-min` | 4600 | 重点位次区间下限 |
-| `--highlight-max` | 5300 | 重点位次区间上限 |
-| `--output` | 自动生成 | 输出 PDF 路径 |
+| 参数 | 必填 | 说明 |
+|------|------|------|
+| `--province` | 是 | 省份名称，如：山西、广东 |
+| `--category` | 是 | 科类，如：物理类、历史类 |
+| `--year` | 是 | 高考年份，如：2025 |
+| `--rank-min` | 是 | 位次区间下限，如：4000 |
+| `--rank-max` | 是 | 位次区间上限，如：6000 |
+| `--highlight-min` | 是 | 重点位次区间下限，如：4600 |
+| `--highlight-max` | 是 | 重点位次区间上限，如：5300 |
+| `--output` | 否 | 输出 PDF 路径（默认自动生成到 output/ 目录） |
 
 ## 报告结构
 

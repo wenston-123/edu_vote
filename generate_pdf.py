@@ -711,9 +711,9 @@ def get_major_intro_key(school_name, major_name):
 
 
 # ── 构建故事内容 ──────────────────────────────────────────
-def build_story(province="山西", category="物理类", year=2025,
-                rank_min=4000, rank_max=6000,
-                highlight_min=4600, highlight_max=5300):
+def build_story(province, category, year,
+                rank_min, rank_max,
+                highlight_min, highlight_max):
     story = []
 
     # ── 加载数据 ────────────────────────────────────────
@@ -1587,26 +1587,26 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例:
-  # 默认：山西物理类 2025 年 4000-6000 名，重点 4600-5300
-  python3 generate_pdf.py
+  python3 generate_pdf.py \\
+    --province 山西 --category 物理类 --year 2025 \\
+    --rank-min 4000 --rank-max 6000 \\
+    --highlight-min 4600 --highlight-max 5300
 
-  # 自定义参数
-  python3 generate_pdf.py --province 山西 --category 物理类 --year 2025 \\
-      --rank-min 3000 --rank-max 5000 \\
-      --highlight-min 3500 --highlight-max 4200
-
-  # 指定输出文件
-  python3 generate_pdf.py --output 我的报告.pdf
+  python3 generate_pdf.py \\
+    --province 广东 --category 历史类 --year 2025 \\
+    --rank-min 2000 --rank-max 5000 \\
+    --highlight-min 3000 --highlight-max 4000 \\
+    --output 广东历史类报告.pdf
         """,
     )
-    parser.add_argument("--province", default="山西", help="省份（默认：山西）")
-    parser.add_argument("--category", default="物理类", help="科类（默认：物理类）")
-    parser.add_argument("--year", type=int, default=2025, help="年份（默认：2025）")
-    parser.add_argument("--rank-min", type=int, default=4000, help="最低位次（默认：4000）")
-    parser.add_argument("--rank-max", type=int, default=6000, help="最高位次（默认：6000）")
-    parser.add_argument("--highlight-min", type=int, default=4600, help="重点区间最低位次（默认：4600）")
-    parser.add_argument("--highlight-max", type=int, default=5300, help="重点区间最高位次（默认：5300）")
-    parser.add_argument("--output", help="输出 PDF 文件路径（默认自动生成）")
+    parser.add_argument("--province", required=True, help="省份，如：山西")
+    parser.add_argument("--category", required=True, help="科类，如：物理类、历史类")
+    parser.add_argument("--year", type=int, required=True, help="年份，如：2025")
+    parser.add_argument("--rank-min", type=int, required=True, help="位次区间下限，如：4000")
+    parser.add_argument("--rank-max", type=int, required=True, help="位次区间上限，如：6000")
+    parser.add_argument("--highlight-min", type=int, required=True, help="重点位次区间下限，如：4600")
+    parser.add_argument("--highlight-max", type=int, required=True, help="重点位次区间上限，如：5300")
+    parser.add_argument("--output", help="输出 PDF 文件路径（默认 output/{省份}{年份}{科类}{位次区间}名录取报告.pdf）")
     args = parser.parse_args()
 
     # 生成输出路径
