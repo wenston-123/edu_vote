@@ -65,6 +65,13 @@ def parse_args() -> argparse.Namespace:
 def main():
     args = parse_args()
 
+    # 年份校验
+    if args.year > 2026:
+        print(f"{Colors.SCHOOL}错误：年份不能超过 2026 年（当前输入：{args.year}）{Colors.RESET}")
+        sys.exit(1)
+    if args.year > 2025:
+        print(f"{Colors.DIM}⚠ 提示：当前数据仅支持到 2025 年，{args.year} 年的录取数据尚未发布。{Colors.RESET}")
+
     # 1. 加载数据
     print(f"{Colors.DIM}正在加载数据...{Colors.RESET}")
     try:

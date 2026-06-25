@@ -1609,6 +1609,13 @@ def main():
     parser.add_argument("--output", help="输出 PDF 文件路径（默认 output/{省份}{年份}{科类}{位次区间}名录取报告.pdf）")
     args = parser.parse_args()
 
+    # 年份校验
+    if args.year > 2026:
+        print(f"❌ 错误：年份不能超过 2026 年（当前输入：{args.year}）")
+        sys.exit(1)
+    if args.year > 2025:
+        print(f"⚠️  提示：当前数据仅支持到 2025 年，{args.year} 年的录取数据尚未发布。")
+
     # 生成输出路径
     if args.output:
         output_path = args.output
