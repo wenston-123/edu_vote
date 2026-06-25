@@ -1,0 +1,1281 @@
+[
+  {
+    "school": "北京理工大学",
+    "group_code": "第303组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "工科试验班（未来精工技术）",
+        "major_detail": "含智能制造工程、智能车辆工程、人工智能、智能感知工程等方向",
+        "min_score": 631,
+        "min_rank": 4000
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "中国药科大学",
+    "group_code": "第301组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "药学类",
+        "major_detail": "含药学、药物制剂、药物分析、药物化学",
+        "min_score": 631,
+        "min_rank": 4000
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "华南理工大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "自动化类",
+        "major_detail": "含自动化、智能科学与技术",
+        "min_score": 631,
+        "min_rank": 4000
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、高分子材料与工程、功能材料",
+        "min_score": 631,
+        "min_rank": 4000
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "哈尔滨工程大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "海洋工程类",
+        "major_detail": "含船舶与海洋工程、海洋机器人、港口航道与海岸工程",
+        "min_score": 631,
+        "min_rank": 4000
+      },
+      {
+        "major_name": "核工程与核技术",
+        "major_detail": "含核工程与核技术、核化工与核燃料工程",
+        "min_score": 631,
+        "min_rank": 4000
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "厦门大学",
+    "group_code": "第301组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "经济学类",
+        "major_detail": "含金融学、财政学、税收学、国际经济与贸易、经济学",
+        "min_score": 632,
+        "min_rank": 3837
+      },
+      {
+        "major_name": "金融工程",
+        "major_detail": "金融工程方向，思明校区",
+        "min_score": 631,
+        "min_rank": 3837
+      },
+      {
+        "major_name": "会计学",
+        "major_detail": "含会计学、财务管理、审计学（含双学士学位项目）",
+        "min_score": 631,
+        "min_rank": 3837
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "不限",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "吉林大学",
+    "group_code": "第307组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "法学",
+        "major_detail": "法学专业（含涉外法治人才实验班）",
+        "min_score": 631,
+        "min_rank": 4000
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "不限",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "哈尔滨工程大学",
+    "group_code": "第307组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "水声工程",
+        "major_detail": "含水声工程、电子信息工程（水声方向）",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "计算机科学与技术",
+        "major_detail": "计算机科学与技术（含基础拔尖班）",
+        "min_score": 630,
+        "min_rank": 3984
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "天津医科大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "临床医学（5+3一体化）",
+        "major_detail": "临床医学5+3一体化培养",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "口腔医学（5+3一体化）",
+        "major_detail": "口腔医学5+3一体化培养",
+        "min_score": 630,
+        "min_rank": 3984
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学+生物",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "西安电子科技大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "电子信息类（通信）",
+        "major_detail": "含通信工程、信息工程、空间信息与数字技术",
+        "min_score": 634,
+        "min_rank": 3440
+      },
+      {
+        "major_name": "电子信息类（电子工程）",
+        "major_detail": "含电子信息工程、信息对抗技术、电磁场与无线技术",
+        "min_score": 632,
+        "min_rank": 3600
+      },
+      {
+        "major_name": "电子信息类（集成电路）",
+        "major_detail": "含微电子科学与工程、集成电路设计与集成系统",
+        "min_score": 638,
+        "min_rank": 3050
+      },
+      {
+        "major_name": "电子信息类（电子科学、信息物理、空天信息）",
+        "major_detail": "含电子科学与技术、光电信息科学与工程、电子信息科学与技术、空间科学与技术、探测制导与控制技术、遥感科学与技术",
+        "min_score": 633,
+        "min_rank": 3600
+      },
+      {
+        "major_name": "自动化类（智能制造及智能测控）",
+        "major_detail": "含机械设计制造及其自动化、工业设计、自动化、电气工程及其自动化、测控技术与仪器、电子封装技术、机器人工程",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "计算机类（智能）",
+        "major_detail": "含人工智能、智能科学与技术",
+        "min_score": 633,
+        "min_rank": 3600
+      },
+      {
+        "major_name": "计算机类",
+        "major_detail": "含计算机科学与技术、软件工程",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "计算机类（网络安全）",
+        "major_detail": "含信息安全、网络空间安全",
+        "min_score": 630,
+        "min_rank": 3984
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "山东大学",
+    "group_code": "第306组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "数学类",
+        "major_detail": "含数学与应用数学、信息与计算科学、统计学",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "物理学类",
+        "major_detail": "含物理学、应用物理学",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "计算机类",
+        "major_detail": "含计算机科学与技术、人工智能、软件工程",
+        "min_score": 630,
+        "min_rank": 3984
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "厦门大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "工科试验班（化工与材料类）",
+        "major_detail": "含化学工程与工艺、材料科学与工程",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "工科试验班（航空航天）",
+        "major_detail": "含机械设计制造及其自动化、测控技术与仪器、自动化、飞行器设计与工程、飞行器动力工程",
+        "min_score": 631,
+        "min_rank": 3837
+      },
+      {
+        "major_name": "工科试验班（智慧建造与智能结构）",
+        "major_detail": "含土木工程（含土木工程+法学双学士学位）",
+        "min_score": 630,
+        "min_rank": 3984
+      },
+      {
+        "major_name": "能源动力类",
+        "major_detail": "含新能源科学与工程、储能科学与工程",
+        "min_score": 631,
+        "min_rank": 3837
+      },
+      {
+        "major_name": "电子信息类",
+        "major_detail": "含电子信息工程、集成电路设计与集成系统、微电子科学与工程、电子信息科学与技术、通信工程",
+        "min_score": 637,
+        "min_rank": 3050
+      },
+      {
+        "major_name": "计算机类",
+        "major_detail": "含计算机科学与技术、网络空间安全、人工智能、软件工程",
+        "min_score": 634,
+        "min_rank": 3440
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "湖南大学",
+    "group_code": "第302组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "计算机科学与技术",
+        "major_detail": "计算机科学与技术（含人工智能班）",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "软件工程",
+        "major_detail": "软件工程（含卓越工程师班）",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "电子信息工程",
+        "major_detail": "电子信息工程",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "电气工程及其自动化",
+        "major_detail": "电气工程及其自动化",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "自动化",
+        "major_detail": "自动化",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "机械类",
+        "major_detail": "含机械设计制造及其自动化、车辆工程、工业工程",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "土木类",
+        "major_detail": "含土木工程、建筑环境与能源应用工程、给排水科学与工程",
+        "min_score": 629,
+        "min_rank": 4143
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "江南大学",
+    "group_code": "第313组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "食品科学与工程",
+        "major_detail": "食品科学与工程（国家一流专业）",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "生物工程",
+        "major_detail": "生物工程（国家一流专业）",
+        "min_score": 629,
+        "min_rank": 4143
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "吉林大学",
+    "group_code": "第306组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "车辆工程",
+        "major_detail": "车辆工程（含智能车辆工程方向）",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "机械工程",
+        "major_detail": "机械工程",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、材料物理、高分子材料与工程",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "厦门大学",
+    "group_code": "第302组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "理科试验班（生命科学与医药健康类）",
+        "major_detail": "含生物科学、生物技术、药学、预防医学、医学检验技术",
+        "min_score": 632,
+        "min_rank": 3600
+      },
+      {
+        "major_name": "理科试验班（海洋与生态环境类）",
+        "major_detail": "含海洋科学、海洋技术、环境科学、生态学",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "数学类",
+        "major_detail": "含数学与应用数学、信息与计算科学、统计学",
+        "min_score": 629,
+        "min_rank": 4143
+      },
+      {
+        "major_name": "物理学类",
+        "major_detail": "含物理学、天文学",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "化学类",
+        "major_detail": "含化学、能源化学、化学生物学、化学测量学与技术",
+        "min_score": 637,
+        "min_rank": 3050
+      },
+      {
+        "major_name": "统计学类",
+        "major_detail": "含经济统计学、统计学、数据科学与大数据技术",
+        "min_score": 630,
+        "min_rank": 3984
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "首都医科大学",
+    "group_code": "第301组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "临床医学",
+        "major_detail": "临床医学（五年制）",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "口腔医学",
+        "major_detail": "口腔医学（五年制）",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学+生物",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "吉林大学",
+    "group_code": "第308组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "临床医学（5+3一体化）",
+        "major_detail": "临床医学5+3一体化培养",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学+生物",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "东南大学",
+    "group_code": "第302组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "工科试验班（土木交通材料类）",
+        "major_detail": "含土木工程、交通工程、材料科学与工程",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "北京邮电大学",
+    "group_code": "第305组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "计算机类",
+        "major_detail": "含计算机科学与技术、网络工程、数据科学与大数据技术",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "电子信息类",
+        "major_detail": "含通信工程、电子信息工程",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "南京航空航天大学",
+    "group_code": "第302组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "航空航天类",
+        "major_detail": "含飞行器设计与工程、飞行器动力工程、飞行器制造工程、航空航天工程",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "自动化",
+        "major_detail": "自动化",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "电子信息类",
+        "major_detail": "含电子信息科学与技术、信息工程",
+        "min_score": 628,
+        "min_rank": 4305
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "哈尔滨工程大学",
+    "group_code": "第310组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "自动化类",
+        "major_detail": "含自动化、测控技术与仪器、电气工程及其自动化",
+        "min_score": 627,
+        "min_rank": 4440
+      },
+      {
+        "major_name": "机械类",
+        "major_detail": "含机械设计制造及其自动化、工业设计",
+        "min_score": 627,
+        "min_rank": 4440
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "哈尔滨工程大学",
+    "group_code": "第309组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "能源动力类",
+        "major_detail": "含能源与动力工程、轮机工程",
+        "min_score": 627,
+        "min_rank": 4440
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、材料物理、化学工程与工艺",
+        "min_score": 627,
+        "min_rank": 4440
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "大连医科大学",
+    "group_code": "第301组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "临床医学（5+3一体化）",
+        "major_detail": "临床医学5+3一体化，含儿科学方向",
+        "min_score": 627,
+        "min_rank": 4440
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学+生物",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "西安交通大学",
+    "group_code": "第307组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "工科试验班（智能电气）",
+        "major_detail": "含电气工程及其自动化、能源互联网工程",
+        "min_score": 626,
+        "min_rank": 4580
+      },
+      {
+        "major_name": "工科试验班（智慧能源）",
+        "major_detail": "含能源与动力工程、新能源科学与工程、核工程与核技术",
+        "min_score": 626,
+        "min_rank": 4580
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "山东大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "电子信息类",
+        "major_detail": "含电子信息工程、通信工程、电子科学与技术",
+        "min_score": 626,
+        "min_rank": 4580
+      },
+      {
+        "major_name": "自动化类",
+        "major_detail": "含自动化、测控技术与仪器、机器人工程",
+        "min_score": 626,
+        "min_rank": 4580
+      },
+      {
+        "major_name": "机械类",
+        "major_detail": "含机械设计制造及其自动化、智能制造工程",
+        "min_score": 626,
+        "min_rank": 4580
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "上海财经大学",
+    "group_code": "第302组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "统计学类",
+        "major_detail": "含统计学（实验班）、经济统计学、数据科学与大数据技术",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "数学类",
+        "major_detail": "含数学与应用数学、信息与计算科学",
+        "min_score": 625,
+        "min_rank": 4813
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "不限",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "西安电子科技大学",
+    "group_code": "第305组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、应用化学",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "管理科学与工程类",
+        "major_detail": "含信息管理与信息系统、大数据管理与应用、工程管理",
+        "min_score": 625,
+        "min_rank": 4813
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "中国人民大学（苏州校区）",
+    "group_code": "第301组",
+    "group_note": "中外合作办学",
+    "majors": [
+      {
+        "major_name": "金融学（中外合作办学）",
+        "major_detail": "中法学院，与法国院校合作",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "数学与应用数学（中外合作办学）",
+        "major_detail": "中法学院，与法国院校合作",
+        "min_score": 625,
+        "min_rank": 4813
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "不限",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "华南理工大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "食品科学与工程类",
+        "major_detail": "含食品科学与工程、食品质量与安全",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "环境科学与工程类",
+        "major_detail": "含环境工程、环境科学",
+        "min_score": 625,
+        "min_rank": 4813
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "重庆大学",
+    "group_code": "第302组",
+    "group_note": "",
+    "majors": [
+      {
+        "major_name": "工科试验班（经济管理类）",
+        "major_detail": "含金融学、工程管理、经济学、会计学、工程造价、财务管理、工商管理、能源经济、信息管理与信息系统、房地产开发与管理、行政管理、城市管理、市场营销",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "工科试验班（智慧能源与先进材料）",
+        "major_detail": "含能源与动力工程、材料科学与工程、碳储科学与工程、新能源科学与工程、储能科学与工程、建筑环境与能源应用工程、材料成型及控制工程、核工程与核技术",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "工科试验班（高端装备与智能制造）",
+        "major_detail": "含机械设计制造及其自动化、车辆工程、航空航天工程、工程力学、机械电子工程、工业工程",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "工科试验班（未来信息）",
+        "major_detail": "含通信工程、测控技术与仪器、自动化、电子信息工程、机器人工程、集成电路设计与集成系统、智能感知工程",
+        "min_score": 631,
+        "min_rank": 3837
+      },
+      {
+        "major_name": "工科试验班（计算机与智能软件）",
+        "major_detail": "含计算机科学与技术、软件工程、人工智能、数据科学与大数据技术、信息安全",
+        "min_score": 628,
+        "min_rank": 4305
+      },
+      {
+        "major_name": "理科试验班（数理基础）",
+        "major_detail": "含数学与应用数学、物理学、统计学、应用物理学、信息与计算科学",
+        "min_score": 625,
+        "min_rank": 4813
+      },
+      {
+        "major_name": "电气工程及其自动化",
+        "major_detail": "电气工程及其自动化（单独专业，非大类招生）",
+        "min_score": 641,
+        "min_rank": 2601
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "school": "同济大学",
+    "group_code": "第304组",
+    "group_note": "国家专项计划",
+    "majors": [
+      {
+        "major_name": "工科试验班（土木与环境类）",
+        "major_detail": "含土木工程、地质工程、港口航道与海岸工程、环境工程、给排水科学与工程",
+        "min_score": 625,
+        "min_rank": 4813
+      }
+    ],
+    "category": "物理类",
+    "sub_requirement": "化学",
+    "year": 2025,
+    "province": "山西"
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "西北工业大学",
+    "group_code": "第308组",
+    "group_note": "国家专项计划",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、高分子材料与工程、材料成型及控制工程",
+        "min_score": 624,
+        "min_rank": 4950
+      },
+      {
+        "major_name": "力学类",
+        "major_detail": "含工程力学、理论与应用力学",
+        "min_score": 624,
+        "min_rank": 4980
+      },
+      {
+        "major_name": "能源动力类",
+        "major_detail": "含能源与动力工程、新能源科学与工程",
+        "min_score": 624,
+        "min_rank": 5000
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "中南大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "化工与制药类",
+        "major_detail": "含化学工程与工艺、制药工程、应用化学",
+        "min_score": 624,
+        "min_rank": 5020
+      },
+      {
+        "major_name": "测绘类",
+        "major_detail": "含测绘工程、遥感科学与技术、地理信息科学",
+        "min_score": 624,
+        "min_rank": 5050
+      },
+      {
+        "major_name": "安全科学与工程类",
+        "major_detail": "含安全工程、消防工程",
+        "min_score": 624,
+        "min_rank": 5080
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "大连理工大学",
+    "group_code": "第306组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "化工与制药类",
+        "major_detail": "含化学工程与工艺、精细化工、制药工程",
+        "min_score": 623,
+        "min_rank": 5100
+      },
+      {
+        "major_name": "环境科学与工程类",
+        "major_detail": "含环境工程、环境科学",
+        "min_score": 623,
+        "min_rank": 5130
+      },
+      {
+        "major_name": "土木类",
+        "major_detail": "含土木工程、建筑环境与能源应用工程、给排水科学与工程",
+        "min_score": 623,
+        "min_rank": 5150
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "东北大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、材料物理、材料成型及控制工程",
+        "min_score": 623,
+        "min_rank": 5180
+      },
+      {
+        "major_name": "冶金工程",
+        "major_detail": "含冶金工程、资源循环科学与工程",
+        "min_score": 623,
+        "min_rank": 5200
+      },
+      {
+        "major_name": "矿业类",
+        "major_detail": "含采矿工程、矿物加工工程",
+        "min_score": 623,
+        "min_rank": 5230
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "华东理工大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "化工与制药类",
+        "major_detail": "含化学工程与工艺、资源循环科学与工程、制药工程",
+        "min_score": 622,
+        "min_rank": 5300
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含无机非金属材料工程、高分子材料与工程、复合材料与工程",
+        "min_score": 622,
+        "min_rank": 5330
+      },
+      {
+        "major_name": "生物工程类",
+        "major_detail": "含生物工程、生物技术",
+        "min_score": 622,
+        "min_rank": 5350
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "兰州大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "地质学类",
+        "major_detail": "含地质学、地球化学",
+        "min_score": 622,
+        "min_rank": 5380
+      },
+      {
+        "major_name": "草业科学",
+        "major_detail": "含草业科学（含草业经济管理方向）",
+        "min_score": 622,
+        "min_rank": 5400
+      },
+      {
+        "major_name": "大气科学类",
+        "major_detail": "含大气科学、应用气象学",
+        "min_score": 622,
+        "min_rank": 5420
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "北京科技大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "材料科学与工程",
+        "major_detail": "含材料科学与工程（材料物理、材料化学方向）",
+        "min_score": 622,
+        "min_rank": 5450
+      },
+      {
+        "major_name": "冶金工程",
+        "major_detail": "含冶金工程、钢铁冶金",
+        "min_score": 622,
+        "min_rank": 5470
+      },
+      {
+        "major_name": "矿业类",
+        "major_detail": "含采矿工程、矿物加工工程",
+        "min_score": 622,
+        "min_rank": 5490
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "西南交通大学",
+    "group_code": "第306组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "土木工程",
+        "major_detail": "含土木工程（含桥梁与隧道工程方向）",
+        "min_score": 621,
+        "min_rank": 5520
+      },
+      {
+        "major_name": "交通运输类",
+        "major_detail": "含交通运输、交通工程",
+        "min_score": 621,
+        "min_rank": 5540
+      },
+      {
+        "major_name": "测绘类",
+        "major_detail": "含测绘工程、遥感科学与技术、地理信息科学",
+        "min_score": 621,
+        "min_rank": 5560
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "河海大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "水利类",
+        "major_detail": "含水利水电工程、水文与水资源工程、港口航道与海岸工程",
+        "min_score": 621,
+        "min_rank": 5590
+      },
+      {
+        "major_name": "环境科学与工程类",
+        "major_detail": "含环境工程、环境科学、给排水科学与工程",
+        "min_score": 621,
+        "min_rank": 5610
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "合肥工业大学",
+    "group_code": "第303组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "机械类",
+        "major_detail": "含机械设计制造及其自动化、车辆工程、工业工程",
+        "min_score": 621,
+        "min_rank": 5640
+      },
+      {
+        "major_name": "仪器类",
+        "major_detail": "含测控技术与仪器、光电信息科学与工程",
+        "min_score": 621,
+        "min_rank": 5660
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料成型及控制工程、金属材料工程、无机非金属材料工程",
+        "min_score": 621,
+        "min_rank": 5680
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "武汉理工大学",
+    "group_code": "第306组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "材料类",
+        "major_detail": "含材料科学与工程、无机非金属材料工程、高分子材料与工程",
+        "min_score": 620,
+        "min_rank": 5720
+      },
+      {
+        "major_name": "交通运输类",
+        "major_detail": "含交通运输、交通工程、航海技术",
+        "min_score": 620,
+        "min_rank": 5740
+      },
+      {
+        "major_name": "海洋工程类",
+        "major_detail": "含船舶与海洋工程、港口航道与海岸工程",
+        "min_score": 620,
+        "min_rank": 5760
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "南京理工大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "兵器类",
+        "major_detail": "含武器系统与工程、弹药工程与爆炸技术、特种能源技术与工程",
+        "min_score": 620,
+        "min_rank": 5790
+      },
+      {
+        "major_name": "化工与制药类",
+        "major_detail": "含化学工程与工艺、制药工程、特种能源技术与工程",
+        "min_score": 620,
+        "min_rank": 5810
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "上海大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "材料类",
+        "major_detail": "含冶金工程、金属材料工程、无机非金属材料工程",
+        "min_score": 620,
+        "min_rank": 5840
+      },
+      {
+        "major_name": "机械类",
+        "major_detail": "含机械工程、机械电子工程、智能制造工程",
+        "min_score": 620,
+        "min_rank": 5860
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "中国矿业大学",
+    "group_code": "第305组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "矿业类",
+        "major_detail": "含采矿工程、矿物加工工程、工业工程",
+        "min_score": 619,
+        "min_rank": 5920
+      },
+      {
+        "major_name": "安全科学与工程类",
+        "major_detail": "含安全工程、消防工程",
+        "min_score": 619,
+        "min_rank": 5940
+      },
+      {
+        "major_name": "测绘类",
+        "major_detail": "含测绘工程、地理信息科学",
+        "min_score": 619,
+        "min_rank": 5960
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "北京化工大学",
+    "group_code": "第304组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "化工与制药类",
+        "major_detail": "含化学工程与工艺、能源化学工程",
+        "min_score": 619,
+        "min_rank": 5980
+      },
+      {
+        "major_name": "材料类",
+        "major_detail": "含高分子材料与工程、材料科学与工程、功能材料",
+        "min_score": 619,
+        "min_rank": 6000
+      }
+    ]
+  },
+  {
+    "province": "山西",
+    "category": "物理类",
+    "year": 2025,
+    "school": "中国地质大学（武汉）",
+    "group_code": "第303组",
+    "group_note": "",
+    "sub_requirement": "物理+化学",
+    "majors": [
+      {
+        "major_name": "地质学类",
+        "major_detail": "含地质学、地球化学",
+        "min_score": 619,
+        "min_rank": 5970
+      },
+      {
+        "major_name": "地球物理学类",
+        "major_detail": "含地球物理学、勘查技术与工程",
+        "min_score": 619,
+        "min_rank": 5995
+      }
+    ]
+  }
+]

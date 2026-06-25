@@ -1,0 +1,1162 @@
+{
+  "计算机类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "程序设计基础", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "离散数学", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "数据结构", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "计算机组成原理", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "操作系统", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "计算机网络", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "数据库系统", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "编译原理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "软件工程", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "算法设计与分析", "credits": 3, "semester": 4, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "人工智能", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "机器学习", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "计算机图形学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "分布式系统", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "信息安全导论", "credits": 2, "semester": 5, "type": "选修"},
+      {"name": "自然语言处理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "云计算与大数据", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "离散数学", "面向对象程序设计", "大学物理(下)", "数字逻辑电路"],
+      "大二上": ["概率论与数理统计", "数据结构", "计算机组成原理", "电子技术基础", "大学英语"],
+      "大二下": ["算法设计与分析", "操作系统", "计算机网络", "数值分析", "形式语言与自动机"],
+      "大三上": ["数据库系统", "编译原理", "软件工程", "计算机体系结构", "专业选修"],
+      "大三下": ["嵌入式系统", "专业选修(x3)", "生产实习"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "就业/考研准备"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "软件工程": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "程序设计基础", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "离散数学", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "数据结构", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "计算机组成原理", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "操作系统", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "计算机网络", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "数据库系统", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "软件需求工程", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "软件设计与体系结构", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "软件测试", "credits": 2, "semester": 6, "type": "必修"},
+      {"name": "软件项目管理", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "前端开发技术", "credits": 2, "semester": 5, "type": "选修"},
+      {"name": "移动应用开发", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "DevOps实践", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "人机交互设计", "credits": 2, "semester": 5, "type": "选修"},
+      {"name": "Web安全", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "开源软件开发", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "离散数学", "面向对象程序设计(Java)", "大学物理(下)", "数字逻辑"],
+      "大二上": ["概率论与数理统计", "数据结构", "计算机组成原理", "面向对象程序设计(C++)", "大学英语"],
+      "大二下": ["操作系统", "计算机网络", "软件需求工程", "算法设计与分析", "数据库系统"],
+      "大三上": ["软件设计与体系结构", "Web开发技术", "软件工程概论", "专业选修", "专业选修"],
+      "大三下": ["软件测试", "软件项目管理", "移动应用开发", "专业选修", "软件工程实训"],
+      "大四上": ["专业选修", "毕业设计(开题)", "企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "电子信息类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "电路分析基础", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "模拟电子技术", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "数字电子技术", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "信号与系统", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "电磁场与电磁波", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "数字信号处理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "通信原理", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "微机原理与接口技术", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "信息论基础", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "嵌入式系统设计", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "FPGA设计", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "射频电路设计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "光纤通信", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "移动通信", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "雷达原理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "天线原理", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础(C)", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "电路分析基础", "复变函数", "大学物理(下)", "大学英语"],
+      "大二上": ["概率论与数理统计", "模拟电子技术", "数字电子技术", "信号与系统(上)", "数学物理方法"],
+      "大二下": ["电磁场与电磁波", "信号与系统(下)", "高频电子线路", "微机原理", "专业英语"],
+      "大三上": ["数字信号处理", "通信原理", "信息论基础", "电磁兼容", "电子技术实验"],
+      "大三下": ["嵌入式系统", "微波技术", "移动通信", "专业选修(x2)", "电子系统设计"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "电气类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "电路原理", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "模拟电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "数字电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "电机学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "电力电子技术", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "电力系统分析", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "高电压技术", "credits": 2, "semester": 6, "type": "必修"},
+      {"name": "电力系统继电保护", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "自动控制原理", "credits": 3, "semester": 4, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "新能源发电技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "智能电网技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "电力市场", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "电力系统规划", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "电工材料", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "电路原理", "复变函数与积分变换", "大学物理(下)", "工程制图"],
+      "大二上": ["概率论与数理统计", "模拟电子技术", "数字电子技术", "电磁场理论", "大学英语"],
+      "大二下": ["电机学(上)", "自动控制原理", "信号与系统", "数值分析", "专业英语"],
+      "大三上": ["电机学(下)", "电力电子技术", "电力系统分析(上)", "电气测量技术", "专业选修"],
+      "大三下": ["电力系统分析(下)", "高电压技术", "电力系统继电保护", "发电厂电气", "电气工程实训"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "电网公司实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "自动化类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "电路原理", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "模拟电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "数字电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "自动控制原理", "credits": 5, "semester": 4, "type": "必修"},
+      {"name": "现代控制理论", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "微机原理与嵌入式系统", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "过程控制", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "运动控制", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "传感器与检测技术", "credits": 2, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "机器人学基础", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "机器视觉", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "智能控制", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "系统辨识与建模", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "工业互联网", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "电路原理", "复变函数", "大学物理(下)", "工程制图"],
+      "大二上": ["概率论与数理统计", "模拟电子技术", "数字电子技术", "信号与系统", "大学英语"],
+      "大二下": ["自动控制原理(上)", "微机原理", "数值分析", "Matlab与系统仿真", "专业英语"],
+      "大三上": ["自动控制原理(下)", "现代控制理论", "传感器与检测技术", "嵌入式系统", "专业选修"],
+      "大三下": ["过程控制", "运动控制", "计算机控制系统", "专业选修(x2)", "自动化综合实践"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "工厂实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "机械类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "工程材料", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "机械原理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "机械设计", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "机械制造技术基础", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "工程制图", "credits": 3, "semester": 1, "type": "必修"},
+      {"name": "控制工程基础", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "数控技术", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "机器人技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "有限元分析", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "增材制造技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "智能制造系统", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "程序设计基础", "工程材料", "大学物理(下)", "大学英语"],
+      "大二上": ["概率论与数理统计", "理论力学", "材料力学", "电工电子技术", "大学英语"],
+      "大二下": ["机械原理", "流体力学", "热工学", "数值分析", "专业英语"],
+      "大三上": ["机械设计", "机械制造技术基础", "互换性与测量技术", "液压与气压传动", "专业选修"],
+      "大三下": ["控制工程基础", "数控技术", "机电一体化系统", "专业选修(x2)", "机械工程实训"],
+      "大四上": ["专业选修", "毕业设计(开题)", "企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "航空航天类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "空气动力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "飞行器结构力学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "飞行力学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "飞行器总体设计", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "航天器动力学与控制", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "推进系统原理", "credits": 3, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "无人机系统设计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "复合材料力学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "飞行器健康管理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "航天器热控制", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "高超音速飞行器", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "程序设计基础", "理论力学(上)", "大学物理(下)", "大学英语"],
+      "大二上": ["概率论与数理统计", "理论力学(下)", "材料力学", "电工电子技术", "大学英语"],
+      "大二下": ["空气动力学(上)", "飞行器结构力学", "数值分析", "自动控制基础", "专业英语"],
+      "大三上": ["空气动力学(下)", "飞行力学", "推进系统原理", "飞行器结构设计", "专业选修"],
+      "大三下": ["飞行器总体设计", "航天器动力学与控制", "航空航天实验技术", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "航空航天院所实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "临床医学类": {
+    "degree": "医学学士（五年制）/ 医学硕士（5+3一体化）",
+    "duration": "5年 / 8年",
+    "core_courses": [
+      {"name": "系统解剖学", "credits": 6, "semester": 1, "type": "必修"},
+      {"name": "组织胚胎学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "生理学", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "生物化学与分子生物学", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "病理学", "credits": 5, "semester": 4, "type": "必修"},
+      {"name": "药理学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "诊断学", "credits": 6, "semester": 5, "type": "必修"},
+      {"name": "内科学", "credits": 8, "semester": 6, "type": "必修"},
+      {"name": "外科学", "credits": 8, "semester": 6, "type": "必修"},
+      {"name": "妇产科学", "credits": 4, "semester": 7, "type": "必修"},
+      {"name": "儿科学", "credits": 4, "semester": 7, "type": "必修"},
+      {"name": "神经病学", "credits": 3, "semester": 7, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "医学影像学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "肿瘤学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "急诊医学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "康复医学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "全科医学", "credits": 2, "semester": 8, "type": "选修"},
+      {"name": "医学心理学", "credits": 2, "semester": 5, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学(医)", "医用化学", "系统解剖学", "医学导论", "大学英语"],
+      "大一下": ["组织胚胎学", "医用物理学", "医学细胞生物学", "大学英语", "思政课"],
+      "大二上": ["生理学", "生物化学与分子生物学", "医学免疫学", "医学遗传学", "大学英语"],
+      "大二下": ["病理学", "医学微生物学", "人体寄生虫学", "局部解剖学", "医学统计学"],
+      "大三上": ["药理学", "诊断学", "医学影像学", "病理生理学", "医学心理学(选修)"],
+      "大三下": ["内科学(上)", "外科学(上)", "传染病学", "临床技能训练", "专业选修"],
+      "大四上": ["内科学(下)", "外科学(下)", "妇产科学", "儿科学", "神经病学"],
+      "大四下": ["眼科学", "耳鼻喉科学", "口腔科学", "皮肤性病学", "急诊医学"],
+      "大五": ["临床实习（48周轮转）", "毕业考试", "医师资格考试准备"]
+    }
+  },
+  "数学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "数学分析", "credits": 12, "semester": 1, "type": "必修"},
+      {"name": "高等代数", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "解析几何", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "常微分方程", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "概率论", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "复变函数", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "实变函数", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "数理统计", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "泛函分析", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "偏微分方程", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "抽象代数", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "拓扑学", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "微分几何", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "随机过程", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "数值分析", "credits": 3, "semester": 5, "type": "选修"},
+      {"name": "运筹学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "数论基础", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "数学建模", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["数学分析(上)", "高等代数(上)", "解析几何", "程序设计基础", "大学英语"],
+      "大一下": ["数学分析(中)", "高等代数(下)", "大学物理A(上)", "大学英语", "思政课"],
+      "大二上": ["数学分析(下)", "常微分方程", "概率论", "大学物理A(下)", "大学英语"],
+      "大二下": ["复变函数", "实变函数", "数值分析", "抽象代数入门", "专业英语"],
+      "大三上": ["数理统计", "泛函分析", "偏微分方程", "抽象代数", "专业选修"],
+      "大三下": ["拓扑学", "微分几何(选修)", "随机过程(选修)", "数学建模(选修)", "科研训练"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "考研准备"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "物理学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "力学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "热学", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "电磁学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "光学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "原子物理学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "数学物理方法", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "电动力学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "量子力学", "credits": 5, "semester": 5, "type": "必修"},
+      {"name": "热力学与统计物理", "credits": 4, "semester": 6, "type": "必修"},
+      {"name": "固体物理", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "计算物理", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "粒子物理导论", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "天体物理导论", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "半导体物理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "量子信息导论", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "力学", "线性代数", "程序设计基础", "大学英语"],
+      "大一下": ["高等数学A(下)", "热学", "电磁学", "大学英语", "思政课"],
+      "大二上": ["光学", "原子物理学", "数学物理方法(上)", "概率论", "大学英语"],
+      "大二下": ["数学物理方法(下)", "理论力学", "电子技术基础", "物理实验", "专业英语"],
+      "大三上": ["电动力学", "量子力学(上)", "计算物理基础", "近代物理实验(上)", "专业选修"],
+      "大三下": ["量子力学(下)", "热力学与统计物理", "固体物理", "近代物理实验(下)", "科研训练"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "考研/出国准备"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "化学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "无机化学", "credits": 5, "semester": 1, "type": "必修"},
+      {"name": "分析化学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "有机化学", "credits": 6, "semester": 3, "type": "必修"},
+      {"name": "物理化学", "credits": 6, "semester": 4, "type": "必修"},
+      {"name": "结构化学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "仪器分析", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "高分子化学", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "化工原理", "credits": 3, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "配位化学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "催化化学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "材料化学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生物化学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "环境化学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "药物化学", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "无机化学(上)", "大学物理B(上)", "程序设计基础", "大学英语"],
+      "大一下": ["高等数学B(下)", "无机化学(下)", "分析化学", "大学物理B(下)", "大学英语"],
+      "大二上": ["有机化学(上)", "线性代数", "物理化学(上)", "有机化学实验", "大学英语"],
+      "大二下": ["有机化学(下)", "物理化学(下)", "高分子化学导论", "化学实验综合", "专业英语"],
+      "大三上": ["结构化学", "仪器分析", "化工原理", "波谱分析", "专业选修"],
+      "大三下": ["高分子化学", "综合化学实验", "专业选修(x2)", "科研训练"],
+      "大四上": ["专业选修", "毕业设计(开题)", "考研/出国准备"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "统计学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "数学分析", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "高等代数", "credits": 6, "semester": 1, "type": "必修"},
+      {"name": "概率论", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "数理统计", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "回归分析", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "多元统计分析", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "时间序列分析", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "随机过程", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "统计计算", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "抽样调查", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "非参数统计", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "贝叶斯统计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "数据挖掘", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "机器学习", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "金融统计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生物统计", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["数学分析(上)", "高等代数(上)", "解析几何", "程序设计基础", "大学英语"],
+      "大一下": ["数学分析(下)", "高等代数(下)", "大学物理", "大学英语", "思政课"],
+      "大二上": ["概率论", "常微分方程", "复变函数", "数据结构", "大学英语"],
+      "大二下": ["数理统计", "实变函数", "数值分析", "R语言程序设计", "专业英语"],
+      "大三上": ["回归分析", "多元统计分析", "随机过程", "数据库原理", "专业选修"],
+      "大三下": ["时间序列分析", "统计计算", "抽样调查", "统计软件(SAS/SPSS)", "专业选修"],
+      "大四上": ["专业选修(x2)", "毕业设计(开题)", "数据分析实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "经济学类": {
+    "degree": "经济学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "政治经济学", "credits": 3, "semester": 1, "type": "必修"},
+      {"name": "微观经济学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "宏观经济学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "计量经济学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "会计学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "统计学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "金融学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "财政学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "国际经济学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "经济思想史", "credits": 2, "semester": 5, "type": "必修"},
+      {"name": "产业经济学", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "博弈论", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "行为经济学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "发展经济学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "经济预测与决策", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "环境经济学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "数字经济", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "政治经济学", "线性代数", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "微观经济学", "概率论与数理统计", "会计学基础", "大学英语"],
+      "大二上": ["宏观经济学", "统计学", "会计学", "大学英语", "经济史"],
+      "大二下": ["计量经济学", "金融学", "财政学", "经济法", "专业英语"],
+      "大三上": ["国际经济学", "经济思想史", "中级微观经济学", "专业选修", "专业选修"],
+      "大三下": ["产业经济学", "发展经济学(选修)", "博弈论(选修)", "专业选修", "学年论文"],
+      "大四上": ["专业选修", "毕业设计(开题)", "金融机构实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "材料类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "无机化学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "物理化学", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "材料科学基础", "credits": 5, "semester": 4, "type": "必修"},
+      {"name": "材料工程基础", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "材料物理性能", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "材料分析测试方法", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "材料力学性能", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "材料加工原理", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "纳米材料", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "功能材料", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "复合材料", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "半导体材料", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "新能源材料", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "无机化学", "线性代数", "工程制图", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(上)", "有机化学", "程序设计基础", "大学英语"],
+      "大二上": ["概率论", "大学物理(下)", "物理化学(上)", "电工电子技术", "大学英语"],
+      "大二下": ["物理化学(下)", "材料科学基础(上)", "材料力学", "数值分析", "专业英语"],
+      "大三上": ["材料科学基础(下)", "材料工程基础", "材料物理性能", "材料分析测试方法", "专业选修"],
+      "大三下": ["材料力学性能", "材料加工原理", "材料综合实验", "专业选修(x2)", "认识实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "能源动力类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "工程热力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "流体力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "传热学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "燃烧学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "锅炉原理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "汽轮机原理", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "热工测量与自动控制", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "新能源技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "制冷与低温技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "核能利用", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "储能技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "分布式能源系统", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "大学英语", "思政课"],
+      "大二上": ["概率论与数理统计", "理论力学", "材料力学", "电工电子技术", "大学英语"],
+      "大二下": ["工程热力学", "流体力学", "数值分析", "机械设计基础", "专业英语"],
+      "大三上": ["传热学", "燃烧学", "锅炉原理", "热工测量", "专业选修"],
+      "大三下": ["汽轮机原理", "热力发电厂", "热工自动控制", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "电厂/能源企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "药学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 6, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "无机化学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "有机化学", "credits": 5, "semester": 2, "type": "必修"},
+      {"name": "分析化学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "物理化学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "生物化学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "药物化学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "药剂学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "药理学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "药物分析", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "天然药物化学", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "临床药理学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "药物设计学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生物药剂学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "药事管理", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "制药工程", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "无机化学", "线性代数", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "有机化学(上)", "大学物理B", "程序设计基础", "大学英语"],
+      "大二上": ["有机化学(下)", "分析化学", "物理化学(上)", "人体解剖生理学", "大学英语"],
+      "大二下": ["物理化学(下)", "生物化学", "微生物学", "药学导论", "专业英语"],
+      "大三上": ["药物化学", "药剂学", "药理学", "生药学", "专业选修"],
+      "大三下": ["药物分析", "天然药物化学", "药事管理(选修)", "专业选修(x2)", "药学综合实验"],
+      "大四上": ["专业选修", "毕业设计(开题)", "药企/医院实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "食品科学与工程": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "无机与分析化学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "有机化学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "生物化学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "食品微生物学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "食品化学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "食品工程原理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "食品分析", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "食品工艺学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "食品安全学", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "功能性食品", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "食品添加剂", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "食品包装技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "乳品科学与技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "食品感官评定", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "无机与分析化学", "线性代数", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "有机化学", "大学物理B", "程序设计基础", "大学英语"],
+      "大二上": ["概率论", "生物化学", "食品微生物学", "物理化学", "大学英语"],
+      "大二下": ["食品化学", "食品工程原理", "数值分析", "机械基础", "专业英语"],
+      "大三上": ["食品分析", "食品工艺学(上)", "食品营养学", "专业选修", "专业选修"],
+      "大三下": ["食品工艺学(下)", "食品安全学", "食品工厂设计", "食品综合实验", "认识实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "食品企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "土木类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "结构力学", "credits": 5, "semester": 4, "type": "必修"},
+      {"name": "土力学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "混凝土结构设计原理", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "钢结构设计原理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "土木工程施工", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "基础工程", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "桥梁工程", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "地下工程", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "建筑抗震设计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "BIM技术应用", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "道路勘测设计", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "工程地质", "大学英语"],
+      "大二上": ["概率论", "理论力学", "材料力学", "土木工程材料", "大学英语"],
+      "大二下": ["结构力学(上)", "土力学", "流体力学", "数值分析", "专业英语"],
+      "大三上": ["结构力学(下)", "混凝土结构设计原理", "钢结构设计原理", "工程经济学", "专业选修"],
+      "大三下": ["土木工程施工", "基础工程", "工程概预算", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "设计院/施工单位实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "管理科学与工程类": {
+    "degree": "管理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "概率论与数理统计", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "管理学原理", "credits": 3, "semester": 1, "type": "必修"},
+      {"name": "运筹学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "管理信息系统", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "系统工程", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "项目管理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "供应链管理", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "决策理论与方法", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "大数据分析", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "电子商务", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "质量管理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "物流系统规划", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "金融工程", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "管理学原理", "微观经济学", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "线性代数", "宏观经济学", "程序设计基础", "大学英语"],
+      "大二上": ["概率论与数理统计", "会计学", "市场营销", "数据库原理", "大学英语"],
+      "大二下": ["运筹学", "管理信息系统", "组织行为学", "统计学", "专业英语"],
+      "大三上": ["系统工程", "项目管理", "运营管理", "专业选修", "专业选修"],
+      "大三下": ["供应链管理", "决策理论与方法", "物流管理(选修)", "大数据分析(选修)", "管理实践"],
+      "大四上": ["专业选修", "毕业设计(开题)", "企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "金融学": {
+    "degree": "经济学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "概率论与数理统计", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "微观经济学", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "宏观经济学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "会计学", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "金融学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "公司金融", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "投资学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "国际金融", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "金融风险管理", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "金融市场学", "credits": 3, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "金融工程", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "行为金融学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "保险学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "量化投资", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "金融科技", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "固定收益证券", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "政治经济学", "线性代数", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "微观经济学", "会计学", "程序设计基础", "大学英语"],
+      "大二上": ["概率论与数理统计", "宏观经济学", "金融学", "统计学", "大学英语"],
+      "大二下": ["公司金融", "投资学", "计量经济学", "经济法", "专业英语"],
+      "大三上": ["国际金融", "金融风险管理", "金融市场学", "专业选修", "专业选修"],
+      "大三下": ["商业银行经营学", "金融工程(选修)", "保险学(选修)", "专业选修", "金融模拟实训"],
+      "大四上": ["专业选修", "毕业设计(开题)", "金融机构实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "核工程类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "原子物理学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "核物理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "工程热力学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "流体力学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "反应堆物理分析", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "核反应堆热工水力", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "核动力装置", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "辐射防护", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "核电子学", "credits": 2, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "聚变能导论", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "核燃料循环", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "核安全文化", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "核技术应用", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "无机化学", "大学英语"],
+      "大二上": ["概率论", "原子物理学", "数学物理方法", "电工电子技术", "大学英语"],
+      "大二下": ["核物理", "工程热力学", "流体力学", "数值分析", "专业英语"],
+      "大三上": ["反应堆物理分析", "辐射防护", "核电子学", "核工程材料", "专业选修"],
+      "大三下": ["核反应堆热工水力", "核动力装置", "核测量技术", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "核电站/核工业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "海洋工程类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "流体力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "船舶静力学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "船舶阻力与推进", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "船舶结构力学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "船舶设计原理", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "海洋平台设计", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "水下机器人", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "海洋可再生能源", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "深海技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "海洋环境载荷", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "大学英语", "思政课"],
+      "大二上": ["概率论", "理论力学", "材料力学", "电工电子技术", "大学英语"],
+      "大二下": ["流体力学", "船舶静力学", "数值分析", "机械设计基础", "专业英语"],
+      "大三上": ["船舶阻力与推进", "船舶结构力学", "船舶操纵性", "专业选修", "专业选修"],
+      "大三下": ["船舶设计原理", "海洋平台设计", "船舶建造工艺", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "船厂/海洋工程设计院实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "法学": {
+    "degree": "法学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "法理学", "credits": 3, "semester": 1, "type": "必修"},
+      {"name": "宪法学", "credits": 3, "semester": 1, "type": "必修"},
+      {"name": "中国法制史", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "民法总论", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "刑法总论", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "物权法", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "债权法", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "刑法分论", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "行政法与行政诉讼法", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "民事诉讼法", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "刑事诉讼法", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "国际法", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "经济法", "credits": 3, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "知识产权法", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "环境法", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "国际贸易法", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "证据法", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "法律英语", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["法理学", "宪法学", "大学英语", "思政课", "逻辑学"],
+      "大一下": ["民法总论", "刑法总论", "中国法制史", "大学英语", "社会学概论"],
+      "大二上": ["物权法", "债权法", "刑法分论", "商法总论", "大学英语"],
+      "大二下": ["行政法与行政诉讼法", "民事诉讼法", "婚姻家庭法", "专业英语", "专业选修"],
+      "大三上": ["刑事诉讼法", "国际法", "经济法", "知识产权法(选修)", "法律诊所"],
+      "大三下": ["劳动与社会保障法", "环境法(选修)", "法律英语(选修)", "专业选修", "模拟法庭"],
+      "大四上": ["专业选修", "毕业设计(开题)", "律所/法院实习"],
+      "大四下": ["毕业设计(答辩)", "法考准备"]
+    }
+  },
+  "生物工程类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "无机与分析化学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "有机化学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "生物化学", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "微生物学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "分子生物学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "化工原理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "生物反应工程", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "生物分离工程", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "基因工程", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "酶工程", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "细胞工程", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生物信息学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "发酵工程", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "生物制药", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "无机与分析化学", "线性代数", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "有机化学", "大学物理B", "程序设计基础", "大学英语"],
+      "大二上": ["概率论", "生物化学", "微生物学", "物理化学", "大学英语"],
+      "大二下": ["分子生物学", "化工原理", "遗传学", "数值分析", "专业英语"],
+      "大三上": ["生物反应工程", "生物分离工程", "细胞生物学", "专业选修", "专业选修"],
+      "大三下": ["基因工程", "发酵工程(选修)", "生物工程综合实验", "专业选修(x2)", "认识实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "生物企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "测绘类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "线性代数", "credits": 3, "semester": 2, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "测量学基础", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "误差理论与测量平差", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "大地测量学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "工程测量学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "GNSS原理与应用", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "遥感原理与方法", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "地理信息系统", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "数字摄影测量", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "无人机测绘技术", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "三维激光扫描", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "InSAR技术与应用", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "智慧城市导论", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "海洋测绘", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "测量学基础", "概率论", "大学物理(下)", "大学英语"],
+      "大二上": ["误差理论与测量平差", "大地测量学", "地图制图学", "数据结构", "大学英语"],
+      "大二下": ["工程测量学", "GNSS原理与应用", "摄影测量学", "复变函数", "专业英语"],
+      "大三上": ["遥感原理与方法", "地理信息系统", "地籍测量", "专业选修", "专业选修"],
+      "大三下": ["数字摄影测量", "变形监测", "无人机测绘(选修)", "专业选修", "测量实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "测绘单位实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "安全科学与工程类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "安全系统工程", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "安全人机工程", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "安全管理学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "火灾爆炸学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "通风与除尘", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "职业卫生工程", "credits": 2, "semester": 5, "type": "必修"},
+      {"name": "安全监测与监控", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "应急救援技术", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "矿山安全", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "建筑安全", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "化工安全", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "风险评估技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "安全法规与标准化", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "普通化学", "大学英语"],
+      "大二上": ["概率论与数理统计", "工程力学", "电工电子技术", "流体力学", "大学英语"],
+      "大二下": ["安全系统工程", "安全人机工程", "安全管理学", "数值分析", "专业英语"],
+      "大三上": ["火灾爆炸学", "通风与除尘", "职业卫生工程", "安全心理学", "专业选修"],
+      "大三下": ["安全监测与监控", "应急救援技术", "安全评价", "专业选修(x2)", "安全工程实训"],
+      "大四上": ["专业选修", "毕业设计(开题)", "安监/企业安全部门实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "矿业类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "工程力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "岩石力学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "采矿学", "credits": 5, "semester": 4, "type": "必修"},
+      {"name": "矿物加工学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "矿山机械与自动化", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "矿山安全", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "矿业系统工程", "credits": 2, "semester": 6, "type": "必修"},
+      {"name": "智能采矿技术", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "矿山环境保护", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "矿业经济学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "深海采矿", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "矿山数字化", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "选矿新技术", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "无机化学", "程序设计基础", "大学英语"],
+      "大二上": ["概率论", "工程力学", "电工电子技术", "地质学基础", "大学英语"],
+      "大二下": ["岩石力学", "采矿学(上)", "流体力学", "数值分析", "专业英语"],
+      "大三上": ["采矿学(下)", "矿物加工学", "矿山机械与自动化", "矿山安全", "专业选修"],
+      "大三下": ["矿业系统工程", "智能采矿技术", "矿山环境保护(选修)", "专业选修(x2)", "认识实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "矿山企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "水利类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "水力学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "工程水文学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "水利工程地质", "credits": 2, "semester": 4, "type": "必修"},
+      {"name": "水工建筑物", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "水利工程施工", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "水资源规划与管理", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "水电站设计", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "城市水务", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生态水利", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "BIM在水利中的应用", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "水利工程经济", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "大学英语", "思政课"],
+      "大二上": ["概率论", "理论力学", "材料力学", "工程地质", "大学英语"],
+      "大二下": ["水力学", "工程水文学", "结构力学", "数值分析", "专业英语"],
+      "大三上": ["水工建筑物", "水资源规划", "水利工程地质", "钢筋混凝土结构", "专业选修"],
+      "大三下": ["水利工程施工", "水电站(选修)", "城市水务(选修)", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "水利设计院/工程局实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "交通运输类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "交通运输工程导论", "credits": 2, "semester": 2, "type": "必修"},
+      {"name": "运筹学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "交通工程学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "交通规划原理", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "交通设计", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "交通运输组织学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "交通管理与控制", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "智能交通系统", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "轨道交通", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "交通大数据分析", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "交通安全", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "物流系统规划", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "自动驾驶技术导论", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "程序设计基础", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "交通运输工程导论", "大学英语", "思政课"],
+      "大二上": ["概率论与数理统计", "运筹学", "工程力学", "数据结构", "大学英语"],
+      "大二下": ["交通工程学", "交通规划原理", "道路勘测设计", "数值分析", "专业英语"],
+      "大三上": ["交通设计", "交通运输组织学", "交通港站设计", "专业选修", "专业选修"],
+      "大三下": ["交通管理与控制", "智能交通系统", "交通安全(选修)", "专业选修(x2)", "交通工程实训"],
+      "大四上": ["专业选修", "毕业设计(开题)", "交通设计院/地铁公司实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "兵器类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "理论力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "材料力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "兵器科学导论", "credits": 2, "semester": 2, "type": "必修"},
+      {"name": "弹道学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "弹药工程", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "火炮概论", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "爆炸与冲击动力学", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "武器系统设计", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "制导与控制", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "火炸药技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "无人作战系统", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "防护工程", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "兵器测试技术", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "大学物理(下)", "程序设计基础", "兵器科学导论", "大学英语"],
+      "大二上": ["概率论", "理论力学", "材料力学", "电工电子技术", "大学英语"],
+      "大二下": ["弹道学", "流体力学", "数值分析", "机械设计基础", "专业英语"],
+      "大三上": ["弹药工程", "火炮概论", "火炸药学", "专业选修", "专业选修"],
+      "大三下": ["爆炸与冲击动力学", "武器系统设计", "无人作战系统(选修)", "专业选修(x2)", "课程设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "军工企业/研究所实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "地质类": {
+    "degree": "理学/工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 8, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 6, "semester": 2, "type": "必修"},
+      {"name": "普通地质学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "结晶学与矿物学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "岩石学", "credits": 5, "semester": 3, "type": "必修"},
+      {"name": "构造地质学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "古生物学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "地球化学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "矿床学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "地球物理学基础", "credits": 3, "semester": 5, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "遥感地质学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "工程地质学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "环境地质学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "地质灾害防治", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "海洋地质学", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "普通地质学", "无机化学", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "结晶学与矿物学", "大学物理B", "程序设计基础", "大学英语"],
+      "大二上": ["岩石学", "构造地质学", "概率论", "大学物理B(下)", "大学英语"],
+      "大二下": ["古生物学", "地球化学", "地史学", "数值分析", "专业英语"],
+      "大三上": ["矿床学", "地球物理学基础", "遥感地质学(选修)", "专业选修", "专业选修"],
+      "大三下": ["工程地质学(选修)", "地质灾害防治(选修)", "地质填图实习", "专业选修", "科研训练"],
+      "大四上": ["专业选修", "毕业设计(开题)", "地矿单位/环境公司实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "大气科学类": {
+    "degree": "理学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理B", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "大气物理学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "流体力学", "credits": 4, "semester": 3, "type": "必修"},
+      {"name": "天气学原理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "大气探测学", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "动力气象学", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "气候学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "数值天气预报", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "大气化学", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "卫星气象学", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "气候变化与应对", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "航空气象", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "大气环境评价", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "Python气象数据分析", "credits": 2, "semester": 6, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "线性代数", "程序设计基础(Python)", "大学物理B(上)", "大学英语"],
+      "大一下": ["高等数学B(下)", "大学物理B(下)", "概率论", "大学英语", "思政课"],
+      "大二上": ["大气物理学", "流体力学", "数学物理方法", "大气探测学(上)", "大学英语"],
+      "大二下": ["天气学原理", "大气探测学(下)", "数值分析", "气象统计", "专业英语"],
+      "大三上": ["动力气象学", "气候学", "卫星气象学(选修)", "专业选修", "专业选修"],
+      "大三下": ["数值天气预报", "大气化学", "气候变化(选修)", "航空气象(选修)", "气象台站实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "气象局/民航/环保部门实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "草学类": {
+    "degree": "农学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学B", "credits": 6, "semester": 1, "type": "必修"},
+      {"name": "植物学", "credits": 4, "semester": 1, "type": "必修"},
+      {"name": "植物生理学", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "土壤学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "草地资源学", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "牧草与饲料作物栽培学", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "草坪学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "草地保护学", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "草地生态学", "credits": 3, "semester": 6, "type": "必修"},
+      {"name": "草业经济管理", "credits": 2, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "运动场草坪管理", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "草地遥感监测", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "牧草育种学", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "草地畜牧业", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "生态修复工程", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学B(上)", "植物学", "无机化学", "大学英语", "思政课"],
+      "大一下": ["高等数学B(下)", "植物生理学", "有机化学", "程序设计基础", "大学英语"],
+      "大二上": ["概率论", "土壤学", "草地资源学", "遗传学", "大学英语"],
+      "大二下": ["牧草与饲料作物栽培学", "草地调查与规划", "生物化学", "专业英语", "专业选修"],
+      "大三上": ["草坪学", "草地保护学", "牧草育种学(选修)", "专业选修", "专业选修"],
+      "大三下": ["草地生态学", "草业经济管理", "运动场草坪(选修)", "草地遥感(选修)", "草地野外实习"],
+      "大四上": ["专业选修", "毕业设计(开题)", "草业企业/草原站实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  },
+  "仪器类": {
+    "degree": "工学学士",
+    "duration": "4年",
+    "core_courses": [
+      {"name": "高等数学A", "credits": 10, "semester": 1, "type": "必修"},
+      {"name": "大学物理", "credits": 8, "semester": 2, "type": "必修"},
+      {"name": "电路原理", "credits": 4, "semester": 2, "type": "必修"},
+      {"name": "模拟电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "数字电子技术", "credits": 3, "semester": 3, "type": "必修"},
+      {"name": "传感器原理", "credits": 4, "semester": 4, "type": "必修"},
+      {"name": "测控电路", "credits": 3, "semester": 4, "type": "必修"},
+      {"name": "信号与系统", "credits": 3, "semester": 5, "type": "必修"},
+      {"name": "精密仪器设计", "credits": 4, "semester": 5, "type": "必修"},
+      {"name": "智能仪器与虚拟仪器", "credits": 3, "semester": 6, "type": "必修"}
+    ],
+    "elective_courses": [
+      {"name": "机器视觉检测", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "MEMS技术", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "光电检测技术", "credits": 2, "semester": 6, "type": "选修"},
+      {"name": "质量管理与可靠性", "credits": 2, "semester": 7, "type": "选修"},
+      {"name": "物联网感知技术", "credits": 2, "semester": 7, "type": "选修"}
+    ],
+    "typical_semester_plan": {
+      "大一上": ["高等数学A(上)", "线性代数", "工程制图", "大学物理(上)", "大学英语"],
+      "大一下": ["高等数学A(下)", "电路原理", "程序设计基础(C)", "大学物理(下)", "大学英语"],
+      "大二上": ["概率论与数理统计", "模拟电子技术", "数字电子技术", "复变函数", "大学英语"],
+      "大二下": ["传感器原理", "测控电路", "信号与系统", "数值分析", "专业英语"],
+      "大三上": ["精密仪器设计", "误差理论与数据处理", "微机原理", "专业选修", "专业选修"],
+      "大三下": ["智能仪器与虚拟仪器", "机器视觉(选修)", "MEMS(选修)", "专业选修(x2)", "仪器综合设计"],
+      "大四上": ["专业选修", "毕业设计(开题)", "仪器/电子企业实习"],
+      "大四下": ["毕业设计(答辩)"]
+    }
+  }
+}
